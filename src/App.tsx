@@ -1,7 +1,7 @@
-import PageContainer from "./components/Main/PageContainer";
+import HomePage from "./pages/HomePage";
 
 function App() {
-  return <PageContainer />;
+  return <HomePage />;
 }
 
 export default App;
