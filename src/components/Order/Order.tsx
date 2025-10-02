@@ -1,7 +1,5 @@
-import PageContainer from "../Main/PageContainer";
-
 const Order = () => {
-  return <PageContainer>order</PageContainer>;
+  return <div>order</div>;
 };
 
 export default Order;

@@ -1,5 +1,5 @@
 services:
-  app:
+  fastfoodsite:
     build:
       context: .
       dockerfile: Dockerfile
